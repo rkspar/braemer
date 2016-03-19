@@ -517,7 +517,7 @@ img {
 }
 
 .wrapper {
-  background-color: #FFFFFF;
+  background-image: url("../images/clights.png");
 }
 
 .boxed .wrapper {
